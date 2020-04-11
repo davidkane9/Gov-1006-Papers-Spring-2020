@@ -25,7 +25,7 @@ This repo contains the final papers for Gov 1006 at Harvard University in the Sp
 
 [Cian Stryker](https://github.com/CianStryker) --- ([repo](https://github.com/CianStryker/Prosocial_Behavior) [pdf](https://cianstryker.shinyapps.io/Replication/)) --- This is an extension and replication of the paper "Ethnic Riots and Prosocial Behavior: Evidence from Kyrgyzstan" written by Anselm Hager, Krzysztof Krakowski, and Max Schaub. Using survey data gathered in Osh, Kyrgyzstan after the 2010 ethnic riots that included 1200 responses, this paper explored the question of whether exposure to ethnic riots has a negative effect on both in and out-group prosocial behavior. Their conclusion was that exposure to violence during this riot negatively affected prosocial behavior towards both the in and out-groups.
 
-
+[Kevin Wang](https://github.com/kevpwang) --- ([repo](https://github.com/kevpwang/replication_project))
 
 
 
