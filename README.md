@@ -29,6 +29,8 @@ This repo contains the final papers for Gov 1006 at Harvard University in the Sp
 
 [Chelsea Marlborough](https://github.com/chelseamarlborough) ---
 
+[Diego Martinez](https://github.com/diegomartinez1221) --- ([repo](https://github.com/diegomartinez1221/gov_1006_replication)) This is an extension of "Why Friends and Neighbors? Explaining the Electoral Appeal of Local Roots" ^[[Replication Paper](https://www.journals.uchicago.edu/doi/abs/10.1086/703131)] by Rosie Campbell, Philip Cowley, Nick Vivyan, Markus Wagner. In the paper, they seek understand why politicians with local roots have more successs in elections. 
+
 [Robert McKenzie](https://github.com/rmckenzie11) --- ([repo](https://github.com/rmckenzie11/Replication_1006)) --- "This extension of research conducted by Ernesto Calvo and Jonathan Rodden (2015) on the relationship between geographic distribution and electoral representation in multi-party democracies, specifically the UK, tests the MC Model they built on different election datasets. The extension will test the model on data from electoral systems with similar party groupings as their training data (Canada) and radically different party groupings (India)."
 >>>>>>> 88578d1d6ece2aa1c44e0c6f568e6400aad3df27
 
