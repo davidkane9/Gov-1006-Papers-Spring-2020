@@ -27,7 +27,7 @@ This repo contains the final papers for Gov 1006 at Harvard University in the Sp
 
 [Suriya Kandaswamy](https://github.com/sardination/) --- ([repo](https://github.com/sardination/gov1006-final-project) [pdf](https://github.com/GOV-1006-Spring-2020/papers/blob/master/papers/Kandaswamy_Dynamic_responsiveness.pdf)) --- This is an extension of "Policy Preferences and Policy Change: Dynamic Responsiveness in the American States, 1936-2014" by Caughey and Warshaw (2018) which takes a look at the responsiveness of state policy liberalism to mass liberalism based on public opinion while taking into account legislative party control, geography, and other factors.
 
-[Chelsea Marlborough](https://github.com/chelseamarlborough) 
+[Chelsea Marlborough](https://github.com/chelseamarlborough)
 
 [Cian Stryker](https://github.com/CianStryker) --- ([repo](https://github.com/CianStryker/Prosocial_Behavior) [pdf](https://github.com/GOV-1006-Spring-2020/papers/blob/master/papers/Cian_Stryker_Prosocial_Behavior.pdf)) --- This is an extension and replication of the paper "Ethnic Riots and Prosocial Behavior: Evidence from Kyrgyzstan" written by Anselm Hager, Krzysztof Krakowski, and Max Schaub. Using survey data gathered in Osh, Kyrgyzstan after the 2010 ethnic riots that included 1200 responses, this paper explored the question of whether exposure to ethnic riots has a negative effect on both in and out-group prosocial behavior. Their conclusion was that exposure to violence during this riot negatively affected prosocial behavior towards both the in and out-groups.
 
