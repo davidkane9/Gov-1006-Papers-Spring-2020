@@ -33,7 +33,9 @@ This repo contains the final papers for Gov 1006 at Harvard University in the Sp
 
 [Chelsea Marlborough](https://github.com/chelseamarlborough) ---
 
-[Diego Martinez](https://github.com/diegomartinez1221) --- ([repo](https://github.com/diegomartinez1221/gov_1006_replication)) This is an extension of "Why Friends and Neighbors? Explaining the Electoral Appeal of Local Roots" ^[[Replication Paper](https://www.journals.uchicago.edu/doi/abs/10.1086/703131)] by Rosie Campbell, Philip Cowley, Nick Vivyan, Markus Wagner. In the paper, they seek understand why politicians with local roots have more successs in elections. 
+[Diego Martinez](https://github.com/diegomartinez1221) --- ([repo](https://github.com/diegomartinez1221/gov_1006_replication)) This is an extension of "Why Friends and Neighbors? Explaining the Electoral Appeal of Local Roots" [Replication Paper](https://www.journals.uchicago.edu/doi/abs/10.1086/703131) by Rosie Campbell, Philip Cowley, Nick Vivyan, Markus Wagner. In the paper, they seek to understand why politicians with local roots have more successs by how this effect diminishes when voters in the UK are treated with varying levels of behavioral information. However, they concluded that voters in the experiment still had a preference for candidates with local roots above many other characterstics.
+
+whether voters use local roots as a cue for making inferences about a politician's when devoid of other information 
 
 [Meche, Beau](https://github.com/BeauMeche) --- 
 ([repo](https://github.com/BeauMeche/enforcement_distribution_electorate)) ---
