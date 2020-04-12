@@ -27,6 +27,8 @@ This repo contains the final papers for Gov 1006 at Harvard University in the Sp
 
 [Suriya Kandaswamy](https://github.com/sardination/) --- ([repo](https://github.com/sardination/gov1006-final-project) [pdf](https://github.com/GOV-1006-Spring-2020/papers/blob/master/papers/Kandaswamy_Dynamic_responsiveness.pdf)) --- This is an extension of "Policy Preferences and Policy Change: Dynamic Responsiveness in the American States, 1936-2014" by Caughey and Warshaw (2018) which takes a look at the responsiveness of state policy liberalism to mass liberalism based on public opinion while taking into account legislative party control, geography, and other factors.
 
+[Samuel Lowry](https://github.com/SamuelLowry) --- ([repo](https://github.com/SamuelLowry/gov1006-milestone-6) 
+
 [Chelsea Marlborough](https://github.com/chelseamarlborough) ---
 
 [Diego Martinez](https://github.com/diegomartinez1221) --- ([repo](https://github.com/diegomartinez1221/gov_1006_replication)) This is an extension of "Why Friends and Neighbors? Explaining the Electoral Appeal of Local Roots" ^[[Replication Paper](https://www.journals.uchicago.edu/doi/abs/10.1086/703131)] by Rosie Campbell, Philip Cowley, Nick Vivyan, Markus Wagner. In the paper, they seek understand why politicians with local roots have more successs in elections. 
