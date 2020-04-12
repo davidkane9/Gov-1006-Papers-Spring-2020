@@ -19,6 +19,8 @@ This repo contains the final papers for Gov 1006 at Harvard University in the Sp
 
 ### Students
 
+[Maria Burzillo](https://github.com/mburzillo/) ---([repo](https://github.com/mburzillo/Final-Project-Final-Version))
+
 [Evelyn Cai](https://github.com/caievelyn) --- ([repo](https://github.com/caievelyn/milestone/) [pdf](https://github.com/caievelyn/milestone/blob/master/milestone_6.pdf)) --- This extension of the research conducted by Yusaku Horiuchi, Daniel Smith, and Teppei Yamamoto (2020) looks at the gap between the experimental results and actual observational data of candidate attributes who were elected.
 
 [Drake Deuel](https://github.com/ddeuel) --- ([repo](https://github.com/ddeuel/Bikeshare-Replication) [pdf](https://github.com/davidkane9/gov_1006_spring_2020_papers/papers/bikeshare_deuel.pdf)) --- "This is an extension and replication of the research done by Fullter et al. (2019) which used the Philadelphia's transit workers strike from November 1-7, 2016, to generate a natural experiment in which other means of transit were interrupted to study the impact on bikeshare ride usage."
@@ -30,7 +32,5 @@ This repo contains the final papers for Gov 1006 at Harvard University in the Sp
 [Kevin Wang](https://github.com/kevpwang) --- ([repo](https://github.com/kevpwang/replication_project))
 
 [Yao Yu](https://github.com/itsyaoyu) --- ([repo](https://github.com/itsyaoyu/mass_shooting_intervals) [pdf](https://github.com/davidkane9/gov_1006_spring_2020_papers/papers/yu_mass_shooting_intervals.pdf)) --- "This extension of the research done by Lin et al. (2018) on mass shooting intervals looks at how the intervals have continued to changed since their publication. Specifically, the update uses the regressions created to compare the expected intervals in the past two years with the actual intervals. Visualizing the intervals between shootings is crucial information that could help identify if recent preventative measures have been effective at decreasing the number of mass shootings. It also provides insight for what still needs to be done and if further preventative measures need to be implemented."
-
-[Maria Burzillo](https://github.com/mburzillo/) ---([repo](https://github.com/mburzillo/Final-Project-Final-Version))
 
 
