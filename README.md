@@ -31,6 +31,8 @@ This repo contains the final papers for Gov 1006 at Harvard University in the Sp
 
 [Kevin Wang](https://github.com/kevpwang) --- ([repo](https://github.com/kevpwang/replication_project))
 
+[Robert McKenzie](https://github.com/rmckenzie11) --- ([repo](https://github.com/rmckenzie11/Replication_1006)) --- "This extension of research conducted by Ernesto Calvo and Jonathan Rodden (2015) on the relationship between geographic distribution and electoral representation in multi-party democracies, specifically the UK, tests the MC Model they built on different election datasets. The extension will test the model on data from electoral systems with similar party groupings as their training data (Canada) and radically different party groupings (India)."
+
 [Yao Yu](https://github.com/itsyaoyu) --- ([repo](https://github.com/itsyaoyu/mass_shooting_intervals) [pdf](https://github.com/davidkane9/gov_1006_spring_2020_papers/papers/yu_mass_shooting_intervals.pdf)) --- "This extension of the research done by Lin et al. (2018) on mass shooting intervals looks at how the intervals have continued to changed since their publication. Specifically, the update uses the regressions created to compare the expected intervals in the past two years with the actual intervals. Visualizing the intervals between shootings is crucial information that could help identify if recent preventative measures have been effective at decreasing the number of mass shootings. It also provides insight for what still needs to be done and if further preventative measures need to be implemented."
 
 
