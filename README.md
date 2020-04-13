@@ -52,6 +52,8 @@ This extension of the research done by Pan (2017) on the signalling function of 
 
 [Abrar Trabulsi](https://github.com/abrartrabulsi) ---
 
+[Hannah Valencia](https://github.com/h-valencia) --- ([repo](https://github.com/h-valencia/Firearms-Replication)) --- 
+
 [Kevin Wang](https://github.com/kevpwang) --- ([repo](https://github.com/kevpwang/replication_project))
 
 [Yao Yu](https://github.com/itsyaoyu) --- ([repo](https://github.com/itsyaoyu/mass_shooting_intervals) [pdf](https://github.com/davidkane9/gov_1006_spring_2020_papers/papers/yu_mass_shooting_intervals.pdf)) --- This extension of the research done by Lin et al. (2018) on mass shooting intervals looks at how the intervals have continued to changed since their publication. Specifically, the update uses the regressions created to compare the expected intervals in the past two years with the actual intervals. Visualizing the intervals between shootings is crucial information that could help identify if recent preventative measures have been effective at decreasing the number of mass shootings. It also provides insight for what still needs to be done and if further preventative measures need to be implemented.
