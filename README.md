@@ -42,6 +42,10 @@ This extension of the research done by Pan (2017) on the signalling function of 
 
 [Chelsea Marlborough](https://github.com/chelseamarlborough) ---
 
+[Liz Masten](https://github.com/LizMas) ---
+([repo, subject to change](https://github.com/LizMas/replication))
+This is an extension of "Games Rivals Play: Terrorism in International Rivalries" by Michael Findley, James Piazza, and Joseph Young. This paper analyzes transnational terrorism as a component of interstate rivalries, specifically focusing on the use of terrorism in proxy warfighting. They find that interstate rivalries are a positive predictor of transnational terrorist activity. In other words, terrorist attacks are more likely to occur in the context of a rivalry between two states than in the absence of such a rivalry. 
+
 [Diego Martinez](https://github.com/diegomartinez1221) --- ([repo](https://github.com/diegomartinez1221/gov_1006_replication)) This is an extension of "Why Friends and Neighbors? Explaining the Electoral Appeal of Local Roots" by Rosie Campbell, Philip Cowley, Nick Vivyan, Markus Wagner. They seek to understand why politicians with local roots have more successs by testing how this effect holds up when voters are treated with the candidate's behavioral information. They concluded that with more infomation, the local roots effect does diminish; however, it is still positve. Furthermore, voters had a marginally higher preference for candidates with local roots compared to other varying characterstics including gender, party, and policy interests.
 
 [Meche, Beau](https://github.com/BeauMeche) --- 
