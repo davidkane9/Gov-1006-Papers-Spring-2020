@@ -43,6 +43,9 @@ This repo contains the final papers for Gov 1006 at Harvard University in the Sp
 [Robert McKenzie](https://github.com/rmckenzie11) --- ([repo](https://github.com/rmckenzie11/Replication_1006)) --- "This extension of research conducted by Ernesto Calvo and Jonathan Rodden (2015) on the relationship between geographic distribution and electoral representation in multi-party democracies, specifically the UK, tests the MC Model they built on different election datasets. The extension will test the model on data from electoral systems with similar party groupings as their training data (Canada) and radically different party groupings (India)."
 >>>>>>> 88578d1d6ece2aa1c44e0c6f568e6400aad3df27
 
+[Timothy Ravis](https://github.com/soetimno) --- ([repo](https://github.com/soetimno/ravis_1006_final_project.git) [pdf](https://github.com/GOV-1006-Spring-2020/papers/blob/master/papers/Tim_Ravis_Deforestation_and_Titling.pdf)) --- 
+
+
 [Cian Stryker](https://github.com/CianStryker) --- ([repo](https://github.com/CianStryker/Prosocial_Behavior) [pdf](https://github.com/GOV-1006-Spring-2020/papers/blob/master/papers/Cian_Stryker_Prosocial_Behavior.pdf)) --- This is an extension and replication of the paper "Ethnic Riots and Prosocial Behavior: Evidence from Kyrgyzstan" written by Anselm Hager, Krzysztof Krakowski, and Max Schaub. Using survey data from Osh, Kyrgyzstan after the 2010 ethnic riots that includes 1200 responses, this paper explores the question of whether exposure to ethnic riots has a negative effect on both in and out-group prosocial behavior. Their conclusion was that exposure to violence during this riot negatively affected prosocial behavior towards both the in and out-groups.
 
 [Abrar Trabulsi](https://github.com/abrartrabulsi) ---
