@@ -25,6 +25,8 @@ This repo contains the final papers for Gov 1006 at Harvard University in the Sp
 
 [Molly Chiang](https://github.com/mollyechiang) --- ([repo](https://github.com/mollyechiang/1006_milestone_6)) --- This is an extension of Marshall (2015), which shows the causal effect of additional years of schooling on voting conservative via regression discontinuty analysis on voting records of individuals before and after the British 1947 school-leaving age reform. This extension aims to see if the same effect is found in an analysis of a later education reform in England.
 
+[Ali Crump](https://github.com/alicrump) --- ([repo](https://github.com/alicrump/Fentanyl_Replication_Project) [pdf](https://github.com/alicrump/Fentanyl_Replication_Project/blob/master/milestone6.pdf)) --- This extension of the research done by Zoorob (2019) on the geography of the overdose epidemic aims to improve the two-stage least squares regression analysis by performing a TBD alternative strategy to analyze the instrumental variables.
+
 [Drake Deuel](https://github.com/ddeuel) --- ([repo](https://github.com/ddeuel/Bikeshare-Replication) [pdf](https://github.com/davidkane9/gov_1006_spring_2020_papers/papers/bikeshare_deuel.pdf)) --- "This is an extension and replication of the research done by Fullter et al. (2019) which used the Philadelphia's transit workers strike from November 1-7, 2016, to generate a natural experiment in which other means of transit were interrupted to study the impact on bikeshare ride usage."
 
 [Debora Gonzalez](https://github.com/deboragonzalez) --- ([repo](https://github.com/deboragonzalez/Milestones) --- 
