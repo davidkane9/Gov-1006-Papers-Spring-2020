@@ -31,6 +31,11 @@ This repo contains the final papers for Gov 1006 at Harvard University in the Sp
 
 [Suriya Kandaswamy](https://github.com/sardination/) --- ([repo](https://github.com/sardination/gov1006-final-project) [pdf](https://github.com/GOV-1006-Spring-2020/papers/blob/master/papers/Kandaswamy_Dynamic_responsiveness.pdf)) --- This is an extension of "Policy Preferences and Policy Change: Dynamic Responsiveness in the American States, 1936-2014" by Caughey and Warshaw (2018) which takes a look at the responsiveness of state policy liberalism to mass liberalism based on public opinion while taking into account legislative party control, geography, and other factors.
 
+[Alexander Klueber](https://github.com/Alex1005-stack) ---
+[repo](https://github.com/Alex1005-stack/Gov_1006_final_project.git) --- 
+[PDF](https://github.com/Alex1005-stack/Gov_1006_final_project/blob/master/Milestone_6.pdf) 
+This extension of the research done by Pan (2017) on the signalling function of local government websites in China explores whether other explanations than the signalling function within authoritarian regimes may plosibly exlain the alterations in competence / benevolence patterns described in the paper. I will explore these alternatives by comparing the explanatory power of the variable categories employed in the paper and extending them with a new category (culture which will include the macro-region and the county type). Building on this, the other part of my extension will be around validating the sample selection process. It seems very surprising that the author has sub-selected 100 of the 2,787 counties with website, and we immediately dismiss another ~30 in our regressions because of data inavailability and subsequently another ~20 as our regressions get more ambitious and include more variables.
+
 [Samuel Lowry](https://github.com/SamuelLowry) ---
 
 [Chelsea Marlborough](https://github.com/chelseamarlborough) ---
