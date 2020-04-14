@@ -19,7 +19,7 @@ This repo contains the final papers for Gov 1006 at Harvard University in the Sp
 
 ### Students
 
-[Maria Burzillo](https://github.com/mburzillo/) ---([repo](https://github.com/mburzillo/Final-Project-Final-Version)[ pdf](https://github.com/GOV-1006-Spring-2020/papers/blob/master/papers/Burzillo_residential_segregation.pdf)) - This is an extension of Jessica Trounstine's "Segregation and Inequality in Public Goods" (2016). I was able to replicate the main results of Trounstine's paper in R to suggest that racial segregation contributes to political polarization and decreased spending on public goods. Additionally, I extend the analysis by imputing missing data and rerunning Trounstine's original model as a robustness check. 
+[Maria Burzillo](https://github.com/mburzillo/) ---([repo](https://github.com/mburzillo/new_final_project)[ pdf](https://github.com/GOV-1006-Spring-2020/papers/blob/master/papers/Burzillo_residential_segregation.pdf)) - This is an extension of Jessica Trounstine's "Segregation and Inequality in Public Goods" (2016). I was able to replicate the main results of Trounstine's paper in R to suggest that racial segregation contributes to political polarization and decreased spending on public goods. Additionally, I extend the analysis by imputing missing data and rerunning Trounstine's original model as a robustness check. 
 
 
 [Evelyn Cai](https://github.com/caievelyn) --- ([repo](https://github.com/caievelyn/milestone/) [pdf](https://github.com/caievelyn/milestone/blob/master/milestone_6.pdf)) --- This extension of the research conducted by Yusaku Horiuchi, Daniel Smith, and Teppei Yamamoto (2020) looks at the gap between the experimental results and actual observational data of candidate attributes who were elected.
