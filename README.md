@@ -29,6 +29,8 @@ This repo contains the final papers for Gov 1006 at Harvard University in the Sp
 
 [Drake Deuel](https://github.com/ddeuel) --- ([repo](https://github.com/ddeuel/Bikeshare-Replication) [pdf](https://github.com/davidkane9/gov_1006_spring_2020_papers/papers/bikeshare_deuel.pdf)) --- "This is an extension and replication of the research done by Fullter et al. (2019) which used the Philadelphia's transit workers strike from November 1-7, 2016, to generate a natural experiment in which other means of transit were interrupted to study the impact on bikeshare ride usage."
 
+[Michelle Gao](https://github.com/michgao87) --- ([repo](https://github.com/michgao87/gov1006-replication) [pdf](https://github.com/davidkane9/gov_1006_spring_2020_papers/papers/gao_tech_political_preferences.pdf)) --- This is an extension of "Predispositions and the Political Behavior of American Economic Elites: Evidence from Technology Entrepreneurs" by Broockman, Ferenstein, and Malhotra (2019). 
+
 [Debora Gonzalez](https://github.com/deboragonzalez) --- ([repo](https://github.com/deboragonzalez/Milestones) --- 
 
 [Suriya Kandaswamy](https://github.com/sardination/) --- ([repo](https://github.com/sardination/gov1006-final-project) [pdf](https://github.com/GOV-1006-Spring-2020/papers/blob/master/papers/Kandaswamy_Dynamic_responsiveness.pdf)) --- This is an extension of "Policy Preferences and Policy Change: Dynamic Responsiveness in the American States, 1936-2014" by Caughey and Warshaw (2018) which takes a look at the responsiveness of state policy liberalism to mass liberalism based on public opinion while taking into account legislative party control, geography, and other factors.
