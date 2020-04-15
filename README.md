@@ -40,7 +40,7 @@ This extension of the research done by Pan (2017) on the signalling function of 
 
 [Samuel Lowry](https://github.com/SamuelLowry) ---
 
-[Chelsea Marlborough](https://github.com/chelseamarlborough) ---
+[Chelsea Marlborough](https://github.com/chelseamarlborough) --- [repo](https://github.com/chelseamarlborough/gov1006-finalpaper) --- [PDF](https://github.com/chelseamarlborough/gov1006-finalpaper/blob/master/final_paper.pdf) This is an extension of "The Spoils of Victory: Campaign Donations and Government Contracts in Brazil" by Boas, Hidalgo, and Richardson (2013) which explores the effects of public-works donations to party-ruling candidates and public policy outcomes. 
 
 [Liz Masten](https://github.com/LizMas) ---
 ([repo, subject to change](https://github.com/LizMas/replication))
