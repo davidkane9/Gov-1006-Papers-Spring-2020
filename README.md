@@ -19,7 +19,7 @@ This repo contains the final papers for Gov 1006 at Harvard University in the Sp
 
 ### Students
 
-[Miroslav Bergam](https://github.com/mirobergam) --- ([repo](https://github.com/mirobergam/Replication-paper) [pdf](https://github.com/mirobergam/Replication-paper/blob/master/replication.pdf)) --- This is an extension of the research conducted by Adam Zelizer at The University of Chicago in 2019, which finds that the cues that state legislators take from their peers influences their policymaking decisions. The paper also concludes that that this influence is at play late in the policymaking process, as well as that these cues complement rather than substitute other sources of information.
+[Miroslav Bergam](https://github.com/mirobergam) --- ([repo](https://github.com/mirobergam/Replication-paper) [pdf](https://github.com/mirobergam/Replication-paper/blob/master/Bergam.pdf)) --- This is an extension of the research conducted by Adam Zelizer at The University of Chicago in 2019, which finds that the cues that state legislators take from their peers influences their policymaking decisions. The paper also concludes that that this influence is at play late in the policymaking process, as well as that these cues complement rather than substitute other sources of information.
 
 [Maria Burzillo](https://github.com/mburzillo/) ---([repo](https://github.com/mburzillo/Final-Project-Final-Version))
 
