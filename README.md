@@ -19,6 +19,8 @@ This repo contains the final papers for Gov 1006 at Harvard University in the Sp
 
 ### Students
 
+[Miroslav Bergam](https://github.com/mirobergam) --- ([repo](https://github.com/mirobergam/Replication-paper) [pdf](https://github.com/mirobergam/Replication-paper/blob/master/Bergam.pdf)) --- This is an extension of the research conducted by Adam Zelizer at The University of Chicago in 2019, which finds that the cues that state legislators take from their peers influences their policymaking decisions. The paper also concludes that that this influence is at play late in the policymaking process, as well as that these cues complement rather than substitute other sources of information.
+
 [Maria Burzillo](https://github.com/mburzillo/) ---([repo](https://github.com/mburzillo/Final-Project-Final-Version))
 
 [Evelyn Cai](https://github.com/caievelyn) --- ([repo](https://github.com/caievelyn/milestone/) [pdf](https://github.com/caievelyn/milestone/blob/master/milestone_6.pdf)) --- This extension of the research conducted by Yusaku Horiuchi, Daniel Smith, and Teppei Yamamoto (2020) looks at the gap between the experimental results and actual observational data of candidate attributes who were elected.
@@ -56,7 +58,7 @@ This extension of the research done by Pan (2017) on the signalling function of 
 
 [Cian Stryker](https://github.com/CianStryker) --- ([repo](https://github.com/CianStryker/Prosocial_Behavior) [pdf](https://github.com/GOV-1006-Spring-2020/papers/blob/master/papers/Cian_Stryker_Prosocial_Behavior.pdf)) --- This is an extension and replication of the paper "Ethnic Riots and Prosocial Behavior: Evidence from Kyrgyzstan" written by Anselm Hager, Krzysztof Krakowski, and Max Schaub. Using survey data from Osh, Kyrgyzstan after the 2010 ethnic riots that includes 1200 responses, this paper explores the question of whether exposure to ethnic riots has a negative effect on both in and out-group prosocial behavior. Their conclusion was that exposure to violence during this riot negatively affected prosocial behavior towards both the in and out-groups.
 
-[Abrar Trabulsi](https://github.com/abrartrabulsi) ---
+[Abrar Trabulsi](https://github.com/abrartrabulsi) --- In her paper 'Exposure to inequality affects support for redistribution', Sands explores how exposure to inequality affects attitutdes towards redistribution efforts.
 
 [Hannah Valencia](https://github.com/h-valencia) --- ([repo](https://github.com/h-valencia/Firearms-Replication)) --- 
 
