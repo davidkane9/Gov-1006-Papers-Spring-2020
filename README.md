@@ -23,7 +23,7 @@ This repo contains the final papers for Gov 1006 at Harvard University in the Sp
 
 [Maria Burzillo](https://github.com/mburzillo/) ---([repo](https://github.com/mburzillo/Final-Project-Final-Version))
 
-[Evelyn Cai](https://github.com/caievelyn) --- ([repo](https://github.com/caievelyn/milestone/) [pdf](https://github.com/caievelyn/milestone/blob/master/milestone_6.pdf)) --- This extension of the research conducted by Yusaku Horiuchi, Daniel Smith, and Teppei Yamamoto (2020) looks at the gap between the experimental results and actual observational data of candidate attributes who were elected.
+[Evelyn Cai](https://github.com/caievelyn) --- ([repo](https://github.com/caievelyn/milestone/) [pdf](https://github.com/caievelyn/milestone/blob/master/milestone_6_half.pdf)) --- This extension of the research conducted by Yusaku Horiuchi, Daniel Smith, and Teppei Yamamoto (2020) looks at the gap between the experimental results and actual observational data of candidate attributes who were elected. The extension of the research involves comparing the average marginal component effects (AMCEs) to the marginal means, which were introduced by Leeper et al. (2019) as a more accurate way of comparing component effects without arbitrarily choosing baseline values. 
 
 [Molly Chiang](https://github.com/mollyechiang) --- ([repo](https://github.com/mollyechiang/1006_milestone_6)) --- This is an extension of Marshall (2015), which shows the causal effect of additional years of schooling on voting conservative via regression discontinuty analysis on voting records of individuals before and after the British 1947 school-leaving age reform. This extension aims to see if the same effect is found in an analysis of a later education reform in England.
 
