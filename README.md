@@ -62,7 +62,7 @@ This extension of the research done by Pan (2017) on the signalling function of 
 
 [Abrar Trabulsi](https://github.com/abrartrabulsi) --- In her paper 'Exposure to inequality affects support for redistribution', Sands explores how exposure to inequality affects attitutdes towards redistribution efforts.
 
-[Hannah Valencia](https://github.com/h-valencia) --- ([repo](https://github.com/h-valencia/Firearms-Replication)) --- 
+[Hannah Valencia](https://github.com/h-valencia) --- ([repo](https://github.com/h-valencia/Firearms-Replication) [pdf](https://github.com/h-valencia/Firearms-Replication/blob/master/FirearmsRepPaper.pdf)) --- Levine and McKnight (2017) show that in the 5-month period following the Sandy Hook school shooting in December 2012, a large spike in gun sales contributed to an increase in accidental firearm deaths.
 
 [Kevin Wang](https://github.com/kevpwang) --- ([repo](https://github.com/kevpwang/replication_project)) --- Hopkins (2015) finds that exposing survey respondents to video of an immigrant with "culturally distinctive" traits causes the respondents to adopt more inclusive attitudes toward immigration. I successfully replicated Hopkins's results and extended his model to account for varying levels of preexisting Spanish exposure among respondents that might influence their responses to such traits.
 
