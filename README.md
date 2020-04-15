@@ -1,6 +1,6 @@
 # Final Papers for Gov 1006 in Spring 2020
 
-This repo contains the final papers for Gov 1006 at Harvard University in the Spring of 2020.
+This repository contains the final papers for Gov 1006 at Harvard University in the Spring of 2020.
 
 ### Do This
 
