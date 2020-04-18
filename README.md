@@ -44,7 +44,7 @@ I was largely able to replicate the statistical models that the paper used to su
 
 [Samuel Lowry](https://github.com/SamuelLowry) ---
 
-[Chelsea Marlborough](https://github.com/chelseamarlborough) ---
+[Chelsea Marlborough](https://github.com/chelseamarlborough) --- ([repo](https://github.com/chelseamarlborough/gov1006-finalpaper)), [pdf](https://github.com/chelseamarlborough/gov1006-finalpaper/blob/master/marlborough_final.pdf) Stokes (2015) finds that voters do pay attention to climate policy and afterwards penalize the incumbent governments for facilities viewed as harmful to the communities.
 
 [Diego Martinez](https://github.com/diegomartinez1221) --- ([repo](https://github.com/diegomartinez1221/gov_1006_replication), [pdf](https://github.com/GOV-1006-Spring-2020/papers/blob/master/papers/Martinez_local_roots.pdf)) In "Why Friends and Neighbors? Explaining the Electoral Appeal of Local Roots", Rosie Campbell, Philip Cowley, Nick Vivyan, Markus Wagner seek to understand why politicians with local roots have more successs. They test this "friend and neighbors effect" by analzying how this effect holds up when voters are treated with the candidate's behavioral information. They concluded that with more infomation, the local roots effect does diminish; however, it is still positve. Furthermore, voters had a marginally higher preference for candidates with local roots compared to other varying characterstics including gender, party, and policy interests. I was able to replicate all the results of their paper. For my extension, I modeled how local roots influence different sub-populations including male vs. female voters as well as different age groups.   
 
