@@ -54,7 +54,7 @@ I was largely able to replicate the statistical models that the paper used to su
 
 [Liz Masten](https://github.com/LizMas) ---
 [repo](https://github.com/LizMas/1006_replication) ---
-[PDF](https://github.com/LizMas/ms-6/blob/master/ms_6.pdf)
+[PDF](https://github.com/LizMas/1006_replication/blob/master/1006_replication.pdf)
 Michael Findley, James Piazza, and Joseph Young show, in their paper "Games Rivals Play: Terrorism in International Rivalries," that interstate rivalries are a positive predictor of transnational terrorist activity. The authors argue that terrorism is often a component of broader hostilities that can be emperically analyzed using a series of politicaly relevant directed dyads. While this paper is a successful replication of their work, my subsequent extension calls into question their choice to use dyadic analysis. When using country-year analysis as opposed to directed dyad analysis, I find ... TBD.
 
 [Beau Meche](https://github.com/BeauMeche) --- 
