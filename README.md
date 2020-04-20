@@ -4,18 +4,11 @@ This repository contains the final papers for Gov 1006 at Harvard University in 
 
 ### Do This
 
-* Download/clone this repo. You have write permission.
-
 * Make sure to pull before you push. Deal with [merge conflicts](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/merge-conflicts) intelligently. After you edit, push your changes and confirm that they [look good on the web](https://github.com/davidkane9/gov_1006_spring_2020_papers).
 
-* Edit this file. Use the exact same template as Yao did. Enter your name in alphabetical order, skipping one row between each.
+* Edit this file. Use the exact same template as Debi did. Enter your name in alphabetical order, skipping one row between each. The pdf link should go to the pdf in this repo, not to the pdf in your own repo.
 
-* Use whatever abstract you currently have, even if it stinks.
-
-* Give your pdf a name which includes your last name. (We can't have multiple files all called "mypaper.pdf.") Place it in the papers/ directory.
-
-* Make sure you provide links to all three things: your Github account, your final project repo and a copy of your paper which you have placed in the papers directory. (This will be a draft right now.)
-
+* Give your pdf a name which starts with your last name. (We can't have multiple files all called "mypaper.pdf.") Place it in the papers/ directory.
 
 ### Students
 
