@@ -1,0 +1,38 @@
+---
+title: "fyohannes_replication"
+author: "Feven Yohannes"
+date: "April 12, 2020"
+output: html_document
+---
+
+Abstract
+
+  Kuipers explores the effect that female candidates in the Indonesian legislature have on intimate partner violence attitudes in his paper “The Effect of Electing Female Candidates on Attitudes Towards Intimate Partner Violence”. In my replication project, I found my results to be consistent with the results found in the paper. After running the code from the main models, I concurred that the results showed that the election of female candidates did, in fact, have an effect that’s statistically significant on the IPV attitudes on female constituents. These results are particularly important because it shows the possible effect that female candidates can have on decreasing IPV, by at least contributing to more condemnation of IPV. Thus, the election of female candidates can result in tangible responses to IPV, leading to safer and healthier communities for women.
+
+Introduction 
+
+  Nicholas Kuipers' paper "The Effect of Electing Female Candidates on Attitudes Towards Intimate Partner Violence", examines how electing female candidates in local elections in Indonesia can lead to a decrease in intimate partner violence. He specifically looks at elections where the female candidate narrowly wins. Overall he finds that a female victory in local elections leads to an increase in female constituents and male constituents (although not as much) condemning domestic abuse. In his experiment, Kuipers examines the effect of electing female candidates to the Dewan Perwakilan Rakyat Daerah, a legislative body in Indonesia. He estimates the effect of adding an additional female lawmaker to the legislative body on tolerance levels of IPV among constituents. To measure the attitudes towards IPV, Kuipers used the USAID Demographic and Health Survey (DHS), which was conducted in 2012 as a nationally representative survey of middle-aged women and men. The main results showed that electing females did affect constituent's beliefs toward IPV. For example "Electing a female legislator leads a 6.4 percentage point drop in the proportion of women who say it is acceptable to beat one’s wife if she goes out without telling her husband". Kuipers claims that the reason for this change in attitude may be because of laws that female politicians tend to enact in regard to domestic abuse. Female politicians may allocate more resources in awareness, helping victims, or strengthen laws that prohibit or punish domestic abuse. After examining some of these reasons, Kuipers predicted that female legislators could have a large effect on policy implications and empower people to condemn IPV.
+  In my replication paper, I use R programming to replicate the modeling through the use of data and code that is available on Dataverse (footnote). In order to replicate the tables and figures featured in the paper, I downloaded all of the available data and ran the same exact codes that were originally used. The replication of these models can be found here (footnote).
+  Through my replication, I found results that were consistent with the findings of the original paper. I specifically focused on the main results of the paper that showed the relationship between the election of female candidates and IPV opinions. The first model examined the relationship between the election of a female candidate and the change in female attitudes from 2009 (before the election of a female candidate) and 2012 (three years after the election of a female candidate). on multiple questions related to IPV. The first table displayed the p values of the coefficients from the first model that explored female candidates and change in IPV opinions on a variety of questions. These five questions include 1)Is it okay to beat one's wife if she goes out? 2)Is it okay to beat one's wife if she neglects the kids? 3)Is it okay to beat one's wife if she argues? 4)Is it okay to beat one's wife if she refuses food? 5) Is it okay to beat one's wife if she burns food? The fitted models show that female respondents are more likely to have attitudes that condemn IPV. For example, “the proportion of female respondents stating that it is acceptable to beat one’s wife if she burns the food drops by 3.2 percentage points”(Kuipers 6). These results are generally consistent with all five questions, thus showing that the election of a female candidate did lead to more condemnation of intimate partner violence and abuse.
+  The second model and table show the relationship between the election of a female candidate on the change in IPV opinions by male constituents. It follows the same procedures and modeling of the first model, with the only difference being the gender of the respondents of the survey. In this model, we see some of the same patterns of less tolerant opinions on intimate partner violence and abuse, however, they were not as statistically significant as the results from the first table. Thus leading us to conclude that there are some discrepancies between the effect of an election of a female candidate on male and female constituents. 
+
+
+Literature Review 
+
+ 	As previously mentioned, this paper focuses on the effects the female policymakers and legislations have on IPV opinions. In his paper, Kuipers introduces other countries in which the relationship between female representation in government and attitudes towards IPV (intimate partner violence) is significant. For example, he refers to a paper titled “ Powerful Women: Does Exposure Reduce Bias?” by Beaman et al. (2009). This paper is a case analysis on Indian village councils and similarly to Kuipers’ paper, it examines the effect the female leaders can have on changing perceptions about female capacity and gender roles. In this paper, India saw that an increase in female representation led to weakened gender stereotypes in the domestic sphere and well as the political arena. Although attitudes on male leaders did not change, this paper shows a change in attitude towards female leaders, most notably the perspective of the effectiveness and capacity of female politicians, all contributing to the weakening of gender stereotypes. The theory and findings within this paper greatly tie to the research question presented in Kuipers’ paper. Both papers analyze the impact that female candidates can have on attitudes related to women’s rights and gender norms.
+ 	These theories are not only present in the aforementioned papers, but the same themes are present in a working paper conducted by the United Nations called “Maternal Mortality and Women’s Political Participation”. This working paper examines the relationship between quotas for women in parliament and the effect it has on the decline in maternal mortality across multiple nations. The paper highlighted how maternal mortality fell at a faster rate for countries that had instituted gender quota in their parliament. In conclusion, this paper finds that women's involvement in policy-making, not country income or advances in medical technology, is the greatest factor for rapid maternal mortality decline. 
+  All three papers highlight the importance of female politicians on pertinent issues such as maternal mortality or domestic abuse. Thus, these papers emphasize the effect that women politicians have on breaking stereotypes and how they are more efficient in dealing with female health and wellness issues. Placing the United Nations working paper and the paper conducted by Beaman et al, they help reinforce the theory that is found in Kuiper’s paper.
+
+
+link to git hub: 
+
+
+
+
+
+
+
+
+
+
+
