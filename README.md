@@ -50,7 +50,7 @@ Pan (2017) shows that the emphasis on Chinese local government websites on eithe
 
 [Liz Masten](https://github.com/LizMas) ---
 ([repo](https://github.com/LizMas/1006_replication)
-[pdf](https://github.com/LizMas/1006_replication/blob/master/1006_replication.pdf))
+[pdf](https://github.com/LizMas/1006_replication/blob/master/1006_replication.pdf)) ---
 Findley, Piazza, and Young (2012) show that interstate rivalries are a positive predictor of transnational terrorist activity. The authors argue that terrorism is often a component of broader hostilities that can be emperically analyzed using a series of politicaly relevant directed dyads. While this paper is a successful replication of their work, I call into question their choice to use dyadic analysis. When using country-year analysis, I find that ... TBD. 
 
 [Beau Meche](https://github.com/BeauMeche) --- 
