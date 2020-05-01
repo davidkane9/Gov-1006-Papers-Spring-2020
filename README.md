@@ -2,6 +2,8 @@
 
 This repository contains the final papers for Gov 1006 at Harvard University in the Spring of 2020.
 
+[Syllabus Here](https://www.davidkane.info/files/gov_1006_spring_2020.html)
+
 ### Do This
 
 * Make sure to pull before you push. Deal with [merge conflicts](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/merge-conflicts) intelligently. After you edit, push your changes and confirm that they [look good on the web](https://github.com/davidkane9/gov_1006_spring_2020_papers).
