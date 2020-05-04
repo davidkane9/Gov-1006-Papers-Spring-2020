@@ -1,18 +1,7 @@
 # Final Papers for Gov 1006 in Spring 2020
 
-This repository contains the final papers for Gov 1006 at Harvard University in the Spring of 2020.
+This repository contains the final papers for [Gov 1006: Models](https://www.davidkane.info/files/gov_1006_spring_2020.html) at Harvard University in the Spring of 2020.
 
-[Syllabus Here](https://www.davidkane.info/files/gov_1006_spring_2020.html)
-
-### Do This
-
-* Make sure to pull before you push. Deal with [merge conflicts](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/merge-conflicts) intelligently. After you edit, push your changes and confirm that they [look good on the web](https://github.com/davidkane9/gov_1006_spring_2020_papers).
-
-* Edit this file. Use the exact same template as Debi did. Enter your name in alphabetical order, skipping one row between each. The pdf link should go to the pdf in this repo, not to the pdf in your own repo.
-
-* Give your pdf a name which starts with your last name. (We can't have multiple files all called "mypaper.pdf.") Place it in the papers/ directory.
-
-### Students
 
 [Miroslav Bergam](https://github.com/mirobergam) --- ([repo](https://github.com/mirobergam/Replication-paper) [pdf](https://github.com/mirobergam/Replication-paper/blob/master/Bergam.pdf)) --- Zelizer (2019) finds that the cues that legislators take from their peers, in addition to other credible sources of information like briefings, influence their policymaking decisions. I succesfully replicated Zelizer’s results. Zelizer took a Bayesian approach to his findings, running 10,000 simulations for each table and figure using for-loops to produce estimates and standard deviations; however, this made his code inefficient and extremely slow Using the rstanarm package, I was able to simplify his code while maintaining the Bayesian integrity of the study. This extension served as both a robustness test of his results and a simplification that makes the study more easily reproducable.
 
