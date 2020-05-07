@@ -52,7 +52,7 @@ Findley, Piazza, and Young (2012) show that interstate rivalries are a positive 
 
 [Prachi Naik](https://github.com/prachiknaik) ---
 ([repo](https://github.com/prachiknaik/violent_protest_and_policy_change)
-[pdf](https://github.com/prachiknaik/violent_protest_and_policy_change/naik_eks_replication.pdf)) ---
+[pdf](https://github.com/GOV-1006-Spring-2020/papers/blob/master/papers/naik_eks_replication.pdf)) ---
 Enos, Kaufman, and Sands (2019) show that the 1992 Los Angeles Riot— one of the most well-known and documented instances of political violence in recent American history— caused a significant liberal shift in policy support at the polls due to the increased mobilization of Black and White voters, a mobilization that has endured over a decade later. The replication attempted in this project successfully found that White voters demonstrated a 0.028 increase in support for public school funding relative to university funding (CI: [0.018, 0.039]) and Black voters demonstrated a 0.073 increase (CI: [0.066, 0.081]). To extend the work of this paper, this project sought to examine the effects the Riot had on Asian American voters. The findings were inconsistent with what the authors found for White and Black voters-- the riot appears to have caused a decrease in liberal policy support for Asians. This matters because heterogenous treatment effects are worth further scrutiny and complication, especially given climates of racial polarization.  
 
 
