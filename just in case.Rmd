@@ -1,0 +1,21 @@
+---
+title: "just_in_case"
+author: "Beau Meche"
+date: "4/18/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+[Meche, Beau](https://github.com/BeauMeche) --- 
+([repo](https://github.com/BeauMeche/enforcement_distribution_electorate)
+[pdf](https://github.com/BeauMeche/enforcement_distribution_electorate/blob/master/Meche_enforcement_variance.pdf)) --- This is an extension and replication of "The Distributive Politics of Enforcement" by Alisha Holland (2014). This work focuses on electoral behavior reacting with police enforcement actions against low-income unlicensed street vendors in three cities in Latin America. As the analyses were originally conducted on original research and data gathering, much of my addition will focus on pressure testing the given models, sensitivity analyses, and missing data method analyses. 
+
+
+
+rd. 2
+
+"The Distributive Politics of Enforcement" by Alisha Holland (2014) analyzes electoral behavior's relationship with police action in opposition to low-income unlicensed street vendors in three cities in Latin America. I was mostly successful in replicating the results, with minute variance due to apparent differences between regression output between R and Stata. In my extenstion I re-regressed the models from the original paper under Bayesian modeling methods in the interest of discovering any differences likely to arise. The regression outputs themselves were quite similar and model comparisons favored similar models to the author; however upon cross-validation model analysis I found that a majority of the models were laden with 'problematic' values. This implies that the models showing statistically significant support for the author's claim do not effectively model the original dataset should any one value be removed and further implies that caution should be taken with associated claims pending better modeling or more data. 
+
