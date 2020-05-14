@@ -2,7 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-
 .DS_Store
 *.Rproj
-README.html
+*.DS_Store
